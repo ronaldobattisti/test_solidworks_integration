@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <AppVersion>28</AppVersion>
+  <CPSheet>
+    <GroupBox Label="Groupbox" PropName="Groupbox4" DefaultState="Expanded">
+      <Control Label="select_number" PropName="Number9" ApplyTo="Config" Type="NumericCtrl" ReadOnly="False" DefaultValue="0" />
+    </GroupBox>
+    <GroupBox Label="teste" PropName="Groupbox2" DefaultState="Expanded">
+      <Control Label="test1" PropName="test1" ApplyTo="Config" Type="CheckBox" ReadOnly="False" DefaultValue="0" PropValueChecked="Checked" PropValueUnchecked="Unchecked" />
+      <Control Label="test2" PropName="test2" ApplyTo="Config" Type="CheckBox" ReadOnly="False" DefaultValue="0" PropValueChecked="Checked" PropValueUnchecked="Unchecked" />
+      <Control Label="test3" PropName="test3" ApplyTo="Config" Type="CheckBox" ReadOnly="False" DefaultValue="0" PropValueChecked="Checked" PropValueUnchecked="Unchecked" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>
