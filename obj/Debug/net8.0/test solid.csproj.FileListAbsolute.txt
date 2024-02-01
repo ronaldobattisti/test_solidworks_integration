@@ -1,0 +1,5 @@
+C:\Users\rbattisti\Desktop\test solid\obj\Debug\net8.0\test solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbattisti\Desktop\test solid\obj\Debug\net8.0\test solid.AssemblyInfoInputs.cache
+C:\Users\rbattisti\Desktop\test solid\obj\Debug\net8.0\test solid.AssemblyInfo.cs
+C:\Users\rbattisti\Desktop\test solid\obj\Debug\net8.0\test solid.csproj.CoreCompileInputs.cache
+C:\Users\rbattisti\Desktop\test solid\obj\Debug\net8.0\test solid.csproj.AssemblyReference.cache
